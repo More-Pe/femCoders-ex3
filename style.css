@@ -1,0 +1,78 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Inter, sans-serif;
+}
+th{
+    font-size: 1.8rem;
+    font-weight: 600;
+    text-align: center;
+}
+td{
+    font-size: 1.4rem;
+    font-weight: 600;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+#cool-gray{
+    color: #4e5662;
+}
+#warm-gray{
+    color: #777573;
+}
+#amber{
+    color: #9d5b24;
+}
+#green{
+    color: #185235;
+}
+#cyan{
+    color: #1f616e;
+}
+#red{
+   color: #c6363b;
+}
+#yellow{
+    color: #ef9c13;
+}
+#esmerald{
+    color: #176249;
+}
+#sky{
+    color: #0780c4;
+}
+#orange{
+    color: #d75e1e;
+}
+#lyme{
+    color: #53761c;
+}
+#teal{
+    color: #1f4e4a;
+}
+#fuchsia{
+    color: #9820a3;
+}
+#pink{
+    color: #ac2557;
+}
+#rose{
+    color: #e44f6b;
+}
+#blue-gray{
+    color: #292e39;
+}
+#purple{
+    color: #6525a6;
+}
+#violet{
+    color: #4a258f;
+}
+#indigo{
+    color: #393671;
+}
+#blue{
+    color: #26397f;
+}
